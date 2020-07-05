@@ -7,3 +7,4 @@ It has:
 - Absolute imports on `src` configured on `jsonconfig.json`
 - prettier included with the config that I like
 - sensible .gitignore
+- add `normalize.css` imported as a global with custom app component
