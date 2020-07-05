@@ -8,3 +8,4 @@ It has:
 - prettier included with the config that I like
 - sensible .gitignore
 - add `normalize.css` imported as a global with custom app component
+- basic layout on its own component
